@@ -9,7 +9,6 @@ function App() {
       {/* Container for swap functionality */}
       <div className="app__videos">
         <Video />
-        <Video />
       </div>
     </div>
   );
